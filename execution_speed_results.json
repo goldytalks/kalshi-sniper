@@ -1,0 +1,8 @@
+{
+  "test_time": "2026-01-04T23:22:16.031834",
+  "market_fetch_avg_ms": 489.39728741534054,
+  "orderbook_fetch_avg_ms": 365.4903208138421,
+  "e2e_avg_ms": 2201.89646682702,
+  "e2e_seconds": 2.2018964668270202,
+  "recommendation": "Current speed sufficient for 33s avg lag. WebSocket optional for capturing 0-5s opportunities."
+}

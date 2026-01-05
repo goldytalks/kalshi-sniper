@@ -1,0 +1,46 @@
+{
+  "game": "BAL @ PIT",
+  "date": "2026-01-04",
+  "ml_moves": 34,
+  "total_opportunities": 2812,
+  "total_edge_cents": 94294,
+  "profit_dollars": 942.94,
+  "by_market_type": {
+    "Total Points": {
+      "opportunities": 2160,
+      "total_edge": 65757,
+      "avg_edge": 30.443055555555556,
+      "avg_lag": 27.88591473287037
+    },
+    "Anytime TD": {
+      "opportunities": 342,
+      "total_edge": 17677,
+      "avg_edge": 51.687134502923975,
+      "avg_lag": 32.9840842251462
+    },
+    "2+ TDs": {
+      "opportunities": 13,
+      "total_edge": 527,
+      "avg_edge": 40.53846153846154,
+      "avg_lag": 36.42557876923077
+    },
+    "AFC North": {
+      "opportunities": 53,
+      "total_edge": 942,
+      "avg_edge": 17.77358490566038,
+      "avg_lag": 29.933492603773587
+    },
+    "AFC Champion": {
+      "opportunities": 58,
+      "total_edge": 2725,
+      "avg_edge": 46.98275862068966,
+      "avg_lag": 32.47341731034483
+    },
+    "Playoff": {
+      "opportunities": 186,
+      "total_edge": 6666,
+      "avg_edge": 35.83870967741935,
+      "avg_lag": 38.04176110752688
+    }
+  }
+}
