@@ -1,0 +1,103 @@
+{
+  "total_markets": 958,
+  "by_sport": {
+    "NFL": 269,
+    "NBA": 528,
+    "College Basketball": 0,
+    "College Football": 56,
+    "NHL": 105,
+    "Other": 0
+  },
+  "live_candidates": [
+    {
+      "sport": "NFL",
+      "ticker": "KXNFLGAME-26JAN04BALPIT-PIT",
+      "title": "Baltimore at Pittsburgh Winner?",
+      "volume": 20447685,
+      "bid": 47,
+      "ask": 49,
+      "spread": 2
+    },
+    {
+      "sport": "NFL",
+      "ticker": "KXNFLGAME-26JAN04BALPIT-BAL",
+      "title": "Baltimore at Pittsburgh Winner?",
+      "volume": 10094631,
+      "bid": 52,
+      "ask": 53,
+      "spread": 1
+    },
+    {
+      "sport": "NBA",
+      "ticker": "KXNBAGAME-26JAN04MEMLAL-LAL",
+      "title": "Memphis vs Los Angeles L Winner?",
+      "volume": 2595579,
+      "bid": 42,
+      "ask": 43,
+      "spread": 1
+    },
+    {
+      "sport": "NBA",
+      "ticker": "KXNBAGAME-26JAN04MILSAC-SAC",
+      "title": "Milwaukee vs Sacramento Winner?",
+      "volume": 1642709,
+      "bid": 8,
+      "ask": 9,
+      "spread": 1
+    },
+    {
+      "sport": "NBA",
+      "ticker": "KXNBAGAME-26JAN04MILSAC-MIL",
+      "title": "Milwaukee vs Sacramento Winner?",
+      "volume": 1327018,
+      "bid": 91,
+      "ask": 92,
+      "spread": 1
+    },
+    {
+      "sport": "NBA",
+      "ticker": "KXNBAGAME-26JAN04MEMLAL-MEM",
+      "title": "Memphis vs Los Angeles L Winner?",
+      "volume": 1012191,
+      "bid": 56,
+      "ask": 59,
+      "spread": 3
+    },
+    {
+      "sport": "College Football",
+      "ticker": "KXNCAAFGAME-26JAN09OREIND-IND",
+      "title": "Oregon at Indiana Winner?",
+      "volume": 403610,
+      "bid": 62,
+      "ask": 64,
+      "spread": 2
+    },
+    {
+      "sport": "College Football",
+      "ticker": "KXNCAAFGAME-26JAN08MIAMISS-MISS",
+      "title": "Miami (FL) at Ole Miss Winner?",
+      "volume": 375187,
+      "bid": 38,
+      "ask": 40,
+      "spread": 2
+    },
+    {
+      "sport": "College Football",
+      "ticker": "KXNCAAFGAME-26JAN09OREIND-ORE",
+      "title": "Oregon at Indiana Winner?",
+      "volume": 288135,
+      "bid": 36,
+      "ask": 38,
+      "spread": 2
+    },
+    {
+      "sport": "College Football",
+      "ticker": "KXNCAAFGAME-26JAN08MIAMISS-MIA",
+      "title": "Miami (FL) at Ole Miss Winner?",
+      "volume": 180168,
+      "bid": 60,
+      "ask": 62,
+      "spread": 2
+    }
+  ]
+}
