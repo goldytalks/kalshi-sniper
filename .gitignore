@@ -1,0 +1,26 @@
+# API credentials - NEVER commit these
+*.pem
+*private_key*
+config.json
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+.venv/
+
+# Logs
+*.log
+trades.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
