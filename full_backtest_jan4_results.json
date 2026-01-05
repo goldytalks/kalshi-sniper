@@ -1,0 +1,86 @@
+{
+  "analysis_date": "2026-01-05T01:10:30.788007",
+  "games_analyzed": 8,
+  "total_opportunities": 23882,
+  "total_edge_cents": 1042370,
+  "by_sport": {
+    "NFL": {
+      "opps": 18002,
+      "edge": 862985
+    },
+    "NBA": {
+      "opps": 5880,
+      "edge": 179385
+    }
+  },
+  "by_market_type": {
+    "Totals": {
+      "opps": 17919,
+      "edge": 818004
+    },
+    "Anytime TD": {
+      "opps": 1554,
+      "edge": 57078
+    },
+    "Spread": {
+      "opps": 4409,
+      "edge": 167288
+    }
+  },
+  "by_lag_bucket": {
+    "0-1s": {
+      "opps": 712,
+      "edge": 34865
+    },
+    "1-5s": {
+      "opps": 1983,
+      "edge": 90824
+    },
+    "5-15s": {
+      "opps": 4825,
+      "edge": 216653
+    },
+    "15-30s": {
+      "opps": 6101,
+      "edge": 283010
+    },
+    "30-60s": {
+      "opps": 10261,
+      "edge": 417018
+    }
+  },
+  "games": {
+    "NFL:26JAN04BALPIT": {
+      "total_edge": 563838,
+      "opps": 10046
+    },
+    "NFL:26JAN04DETCHI": {
+      "total_edge": 30030,
+      "opps": 1074
+    },
+    "NFL:26JAN04CARTB": {
+      "total_edge": 13459,
+      "opps": 727
+    },
+    "NBA:26JAN04MEMLAL": {
+      "total_edge": 35954,
+      "opps": 1326
+    },
+    "NFL:26JAN04WASPHI": {
+      "total_edge": 28958,
+      "opps": 982
+    },
+    "NFL:26JAN04KCLV": {
+      "total_edge": 217972,
+      "opps": 5000
+    },
+    "NBA:26JAN04OKCPHX": {
+      "total_edge": 143431,
+      "opps": 4554
+    },
+    "NFL:26JAN04INDHOU": {
+      "total_edge": 8728,
+      "opps": 173
+    }
+  }
+}
